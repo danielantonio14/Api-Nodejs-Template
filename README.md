@@ -1,2 +1,2 @@
-# api-nodejs-template
-api nodejs template
+# storeapi-nodejs-template
+storeapi nodejs template
